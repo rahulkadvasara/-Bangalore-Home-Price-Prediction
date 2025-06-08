@@ -6,8 +6,8 @@ This data science project series walks through step by step process of how to bu
 2. Numpy and Pandas for data cleaning
 3. Matplotlib for data visualization
 4. Sklearn for model building
-5. Jupyter notebook, visual studio code and pycharm as IDE
-6. Python flask for http server
+5.Visual studio code as IDE
+6. Python flask for http server (Also used Fast API as option 2)
 7. HTML/CSS/Javascript for UI
 
 # Deploy this app to cloud (AWS EC2)
